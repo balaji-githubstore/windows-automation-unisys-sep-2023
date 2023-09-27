@@ -1,3 +1,4 @@
+"""working on datatypes"""
 print('hello')
 
 
@@ -15,7 +16,9 @@ print(type(c))
 
 d=True
 
+
 print(d)
+
 print(type(d))
 
 my_name='balaji'
